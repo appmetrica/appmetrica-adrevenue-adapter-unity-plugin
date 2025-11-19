@@ -1,0 +1,24 @@
+{
+  "name": "io.appmetrica.analytics.adrevenue.adapter",
+  "version": "1.0.0",
+  "displayName": "AppMetrica AdRevenue Adapter",
+  "description": "AppMetrica adapter for AdRevenue auto collection.",
+  "changelogUrl": "https://appmetrica.io/docs/en/sdk/unity/changelog",
+  "documentationUrl": "https://appmetrica.io/docs/en/sdk/unity/analytics/quick-start",
+  "license": "See LICENSE.md file",
+  "licensesUrl": "LICENSE.md",
+  "readme": "README.md",
+  "unity": "2018.3",
+  "author": {
+    "name": "AppMetrica",
+    "url": "https://appmetrica.io"
+  },
+  "keywords": [
+    "appmetrica",
+    "analytics",
+    "android",
+    "ios",
+    "revenue",
+    "adrevenue"
+  ]
+}
