@@ -7,7 +7,8 @@ namespace Io.AppMetrica.AdRevenueAdapter.AdNetworks.Utils {
     internal static class AssemblyUtils {
         private static readonly string[] RequiredAssemblies = {
             Constants.TopOnAssemblyName,
-            Constants.IronSourceAssemblyName,
+            Constants.IronSourceV8AssemblyName,
+            Constants.IronSourceV9AssemblyName,
             Constants.AppLovinAssemblyName
         };
 

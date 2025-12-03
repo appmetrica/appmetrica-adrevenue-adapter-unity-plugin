@@ -26,6 +26,7 @@ namespace Io.AppMetrica.AdRevenueAdapter.Editor {
         {
             [SupportedAdNetworksNames.AppLovinAdRevenueV8] = new AppLovinAdRevenueV8(),
             [SupportedAdNetworksNames.IronSourceAdRevenueV8] = new IronSourceAdRevenueV8(),
+            [SupportedAdNetworksNames.IronSourceAdRevenueV9] = new IronSourceAdRevenueV9(),
             [SupportedAdNetworksNames.TopOnAdRevenueV2] = new TopOnAdRevenueV2(),
         };
 
@@ -78,6 +79,7 @@ namespace Io.AppMetrica.AdRevenueAdapter.Editor {
     internal static class SupportedAdNetworksNames {
         internal const string AppLovinAdRevenueV8 = nameof(AppLovinAdRevenueV8);
         internal const string IronSourceAdRevenueV8 = nameof(IronSourceAdRevenueV8);
+        internal const string IronSourceAdRevenueV9 = nameof(IronSourceAdRevenueV9);
         internal const string TopOnAdRevenueV2 = nameof(TopOnAdRevenueV2);
     }
 }

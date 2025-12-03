@@ -21,7 +21,7 @@ namespace Io.AppMetrica.AdRevenueAdapter.AdNetworks.IronSource.V8 {
         }
 
         private static void SubscribeOnAdRevenueEventsUnsafely() {
-            var ironSourceAssembly = AssemblyUtils.GetAssembly(Constants.IronSourceAssemblyName);
+            var ironSourceAssembly = AssemblyUtils.GetAssembly(Constants.IronSourceV8AssemblyName);
 
             if (ironSourceAssembly == null) {
                 return;
