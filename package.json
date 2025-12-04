@@ -1,5 +1,5 @@
 {
-  "name": "io.appmetrica.analytics.adrevenue.adapter",
+  "name": "com.yandex.mobileads.appmetrica.adrevenue.adapter",
   "version": "1.0.0",
   "displayName": "AppMetrica AdRevenue Adapter",
   "description": "AppMetrica adapter for AdRevenue auto collection.",
